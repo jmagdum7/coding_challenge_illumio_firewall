@@ -15,12 +15,9 @@
 Python 3.6
 
 ## Files Included
-1. firewall.py
-  This file contains the main Firewall class that implements the functions for preprocessing the input, validating it and the accept_packet function which returns the final boolean value for the network
-2. test_firewall.py
-  This file details all the unit test cases for the firewall.py file. The methods from the firewall.py are imported and test cases are written for the methods. The sample test cases mentioned in the guide are also included in this file.
-3. rules.csv
-  The rules for which the input must conform to are included in this file.
+1. `firewall.py`: This file contains the main Firewall class that implements the functions for preprocessing the input, validating it and the accept_packet function which returns the final boolean value for the network
+2. `test_firewall.py`: This file details all the unit test cases for the firewall.py file. The methods from the firewall.py are imported and test cases are written for the methods. The sample test cases mentioned in the guide are also included in this file.
+3. `rules.csv`: The rules for which the input must conform to are included in this file.
 
 ## How to Run
 1. Download both files on your laptop or computer and make sure they are on the same directory or folder
