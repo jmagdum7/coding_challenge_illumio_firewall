@@ -3,8 +3,8 @@
 
 ## Table of contents
 * [Language Used](#language-used)
-* [Files Included](#files_included)
-* [How to Run](#how_to_run)
+* [Files Included](#files-included)
+* [How to Run](#how-to-run)
 * [Design Choices](#design-choices)
 * [Further Improvement](#further-improvement)
 * [Teams Interested In](#teams-interested-in)
